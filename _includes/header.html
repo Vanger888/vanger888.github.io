@@ -136,7 +136,7 @@
       {%- if site.phone -%}
       <p>
         {{ site.phone_title | default: "Phone" }}:
-        <a href="tel:{{ site.email }}">{{ site.phone | escape }}</a>
+        <a href="tel:{{ site.phone }}">{{ site.phone | escape }}</a>
       </p>
       {%- endif -%}
       {%- if site.website -%}
