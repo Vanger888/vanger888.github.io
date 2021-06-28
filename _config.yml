@@ -28,13 +28,14 @@ linkedin_username: serhii-trotsenko-295a6117a
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
+print_link: true
 
 # Additional icon links
-additional_links:
-- title: Print CV
-  icon: fas fa-print
-  url: javascript:(print());
-  target: _self
+# additional_links:
+# - title: Print CV
+#   icon: fas fa-print
+#   url: javascript:(print());
+#   target: _self
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)

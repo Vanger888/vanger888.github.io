@@ -111,6 +111,13 @@
           </a>
         </li>
         {%- endif -%}
+        {%- if site.print_link -%}
+        <li>
+          <a href="javascript:(print());" class="button button--sacnite button--round-l">
+            <i class="fas fa-print" title="Print CV"></i>
+          </a>
+        </li>
+        {%- endif -%}
         {% for link in site.additional_links %}
         <li>
           {% include a.html href=link.url class="button button--sacnite button--round-l" %}
@@ -129,7 +136,7 @@
       {%- if site.phone -%}
       <p>
         {{ site.phone_title | default: "Phone" }}:
-        <a href="tel:{{ site.email }}" target="_blank">{{ site.phone | escape }}</a>
+        <a href="tel:{{ site.email }}">{{ site.phone | escape }}</a>
       </p>
       {%- endif -%}
       {%- if site.website -%}
