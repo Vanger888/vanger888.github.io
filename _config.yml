@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Serhii Trotsenko
-title: Front-end developer
+title: Web developer
 email: sergh.vanger@gmail.com
 phone: 380962333805
 # website: https://github.com/Vanger888
@@ -76,7 +76,7 @@ content:
   #       description: | # this will include new lines to allow paragraphs
   #        The SportCaller platform is an enterprise software solution, used by some of the largest betting and media companies as a key customer acquisition and retention tool. We creating free-to-play games, customized for each client needs. The development team consists of more than 25 people, including 8 front-end developers.
 
-  - title: Experience # Title for the section
+  - title: Experience - 2 years and 3 months # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
@@ -87,44 +87,57 @@ content:
         quote: >
           The SportCaller platform is an enterprise software solution, used by some of the largest betting and media companies as a key customer acquisition and retention tool. We creating free-to-play games, customized for each client needs
         description: | # this will include new lines to allow paragraphs
-            We creating free-to-play games, customized for each client needs. The development team consists of more than 25 people, including 8 front-end developers. My responsibilities include regular code reviews, development of new client applications, My responsibilities include regular code reviews, developing new client applications, helping newly arrived developers.
+          We creating free-to-play games, customized for each client needs. The development team consists of more than 25 people, including 8 front-end developers. My responsibilities include regular code reviews, development of new client applications, My responsibilities include regular code reviews, developing new client applications, helping newly arrived developers.
 
       - layout: left
-        title: SportCaller
-        link: https://sportcaller.com
+        title: Swagbucks
+        link: https://www.swagbucks.com
         # link_text: boringcompany.com
         sub_title: Frontend developer
-        caption: August 2020 - Present
+        caption: November 2019 - August 2020
         quote: >
-          The SportCaller platform is an enterprise software solution, used by some of the largest betting and media companies as a key customer acquisition and retention tool. We creating free-to-play games, customized for each client needs
+          Swagbucks is a rewards and loyalty-programs website, launched in 2008, operated by Prodege, LLC, based in El Segundo, California.
         description: | # this will include new lines to allow paragraphs
-            We creating free-to-play games, customized for each client needs. The development team consists of more than 25 people, including 8 front-end developers. My responsibilities include regular code reviews, development of new client applications, My responsibilities include regular code reviews, developing new client applications, helping newly arrived developers.
+          My tasks included creating new pages and improving the existing UI/UX. Along with performing business tasks, we implemented new technologies and rewrote legacy code. The project has well-established development processes and high quality code review. The team consisted of up to 6 frontend developers
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: Pumped
+        link: https://www.pumped.ai
+        # link_text: boringcompany.com
+        sub_title: Frontend developer
+        caption: March 2019 - October 2019
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Pumped is a startup focused on the US market, the purpose of which is to create a convenient application for buying fuel and refueling, without reference to the specific gas station network
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          My first commercial project, where I build PWA application with SSR(Vue + Nuxt.js). I started as junior developer. My responsibilities included creating new components and friendly UI. It was a small frontend team - me and my mentor.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+  # - title: Education # Title for the section
+  #   layout: list # Type of content section (list/text)
+  #   content:
+  #     - layout: left
+  #       title: Harvard University
+  #       caption: 2010 - 2013
+  #       sub_title: BSc Computer Science
+  #       quote: >
+  #         Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  #       description: | # this will include new lines to allow paragraphs
+  #         During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+
+  #         I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      I am a friendly person with a strong sense of responsibility and attention to detail.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      English level - <mark>Intermediate</mark>
+
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Travelling
+      - Reading
+      - Sport
+      - RPG Board Games
+      - Poker
 
 # Footer
 footer_show_references: true
