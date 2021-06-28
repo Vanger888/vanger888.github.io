@@ -9,7 +9,7 @@ version: 2
 name: Serhii Trotsenko
 title: Front-end developer
 email: sergh.vanger@gmail.com
-phone: <a href="tel:380962333805">380962333805</a>
+phone: 380962333805
 # website: https://github.com/Vanger888
 
 # Dark Mode (true/false/never)
@@ -32,8 +32,9 @@ linkedin_username: serhii-trotsenko-295a6117a
 # Additional icon links
 additional_links:
 - title: Print CV
-  icon: images/print.svg
+  icon: fas fa-print
   url: javascript:(print());
+  target: _self
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
