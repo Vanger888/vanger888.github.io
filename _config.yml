@@ -9,7 +9,7 @@ version: 2
 name: Serhii Trotsenko
 title: Front-end developer
 email: sergh.vanger@gmail.com
-phone: 380962333805
+phone: <a href="tel:380962333805">380962333805</a>
 # website: https://github.com/Vanger888
 
 # Dark Mode (true/false/never)
@@ -29,11 +29,11 @@ linkedin_username: serhii-trotsenko-295a6117a
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
+Additional icon links
+additional_links:
+- title: Print CV
+  icon: images/print.svg
+  url: javascript:(print());
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
