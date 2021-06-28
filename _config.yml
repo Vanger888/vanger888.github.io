@@ -50,7 +50,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile-avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Serhii and I'm a frontend web developer . As well as creating static pages I also have experience making SSR sites and SPA/PWA web apps. I have worked at a several companies gaining teamwork and leadership skills.
+  Hi, my name's Serhii and I'm a frontend web developer. As well as creating static pages I also have experience making SSR sites and SPA/PWA web apps. I have worked at a several companies gaining teamwork and leadership skills.
 
   I am most skilled in: <mark>Javascript</mark> <mark>HTML</mark> and <mark>CSS</mark>
 
@@ -98,7 +98,7 @@ content:
         quote: >
           Swagbucks is a rewards and loyalty-programs website, launched in 2008, operated by Prodege, LLC, based in El Segundo, California.
         description: | # this will include new lines to allow paragraphs
-          My tasks included creating new pages and improving the existing UI/UX. Along with performing business tasks, we implemented new technologies and rewrote legacy code. The project has well-established development processes and high quality code review. The team consisted of up to 6 frontend developers
+          My tasks included creating new pages and improving the existing UI/UX. Along with performing business tasks, we implemented new technologies and rewrote legacy code. The project has well-established development processes and high quality code review. The team consisted of up to 6 frontend developers.
 
       - layout: left
         title: Pumped
@@ -107,7 +107,7 @@ content:
         sub_title: Frontend developer
         caption: March 2019 - October 2019
         quote: >
-          Pumped is a startup focused on the US market, the purpose of which is to create a convenient application for buying fuel and refueling, without reference to the specific gas station network
+          Pumped is a startup focused on the US market, the purpose of which is to create a convenient application for buying fuel and refueling, without reference to the specific gas station network.
         description: | # this will include new lines to allow paragraphs
           My first commercial project, where I build PWA application with SSR(Vue + Nuxt.js). I started as junior developer. My responsibilities included creating new components and friendly UI. It was a small frontend team - me and my mentor.
 
