@@ -31,7 +31,7 @@ linkedin_username: serhii-trotsenko-295a6117a
 print_link: true
 
 # Additional icon links
-# additional_links:
+additional_links:
 # - title: Print CV
 #   icon: fas fa-print
 #   url: javascript:(print());
