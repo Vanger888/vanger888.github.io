@@ -5,7 +5,7 @@ function setExperience() {
     return;
   }
 
-  const experienceStartDate = new Date('2019-04-20T08:00:00').getTime();
+  const experienceStartDate = new Date('2019-03-20T08:00:00').getTime();
   const dateNow = new Date().getTime();
   const difference = dateNow - experienceStartDate;
 
@@ -22,7 +22,7 @@ function setExperience() {
   days %= 30;
   months %= 12;
 
-  const experience = `Experience - ${years} years, ${months} months and ${days} days`;
+  const experience = `Experience - ${years} years and ${months} months.`;
 
   experienceContainer.innerHTML = experience;
 }
