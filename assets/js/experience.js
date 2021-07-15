@@ -1,5 +1,6 @@
 const experienceContainer = document.getElementById('experience');
 
+console.log(experienceContainer);
 if (!experienceContainer) {
   return;
 }
@@ -22,5 +23,7 @@ days %= 30;
 months %= 12;
 
 const experience = `Experience - ${years} years, ${months} months and ${days} days`;
+
+console.log(experience);
 
 experienceContainer.innerHTML = experience;
