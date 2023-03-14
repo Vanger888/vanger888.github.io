@@ -53,9 +53,11 @@ about_profile_image: images/profile-avatar.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Serhii and I'm a frontend web developer. As well as creating static pages I also have experience making SSR sites and SPA/PWA web apps. I have worked at a several companies gaining teamwork and leadership skills.
 
-  I am most skilled in: <mark>Javascript</mark> <mark>HTML</mark> and <mark>CSS</mark>
+  I am most skilled in: <mark>Javascript</mark> <mark>TypeScript</mark> <mark>HTML</mark> and <mark>CSS</mark>
 
-  Working with <mark>Vue</mark> <mark>Vuex</mark> <mark>TypeScript</mark> <mark>Webpack</mark> <mark>SCSS</mark> <mark>Bootstrap</mark> <mark>Jira</mark>
+  I have a good knowledge <mark>Vue</mark> <mark>Vuex</mark> <mark>Nuxt</mark> <mark>Webpack</mark> <mark>SCSS</mark> <mark>CI/CD</mark> <mark>Jira</mark>
+
+  I have basic knowledge of <mark>Node.js</mark> <mark>AWS</mark>
 
 content:
   # - title: Projects # Title for the section
@@ -88,7 +90,8 @@ content:
         quote: >
           The SportCaller platform is an enterprise software solution, used by some of the largest betting and media companies as a key customer acquisition and retention tool.
         description: | # this will include new lines to allow paragraphs
-          We creating free-to-play games, customized for each client needs. The development team consists of more than 25 people, including 8 front-end developers. My responsibilities include regular code reviews, development of new client applications, helping newly arrived developers.
+          We creating free-to-play games, customized for each client needs. The development team consists of more than 30 people, including 13 front-end developers. My responsibilities include regular code reviews, development of new client applications, helping newly arrived developers.
+          With my participation in the project, we developed a new frontend architecture - an isomorphic SSR application using Nuxt 2/Vue 2, with fully dynamic content and routing that can be edited by administrators.
 
       - layout: left
         title: Swagbucks
@@ -131,14 +134,13 @@ content:
     content: | # this will include new lines to allow paragraphs
       I am a friendly person with a strong sense of responsibility and attention to detail.
 
-      English level - <mark>Intermediate</mark>
+      English level - <mark>Upper-Intermediate</mark>
 
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - Travelling
       - Reading
       - Sport
       - RPG Board Games
-      - Poker
 
 # Footer
 footer_show_references: true
