@@ -1,5 +1,9 @@
 function downloadPdf() {
-  html2pdf(document.body);
+  const options = {
+    filename: 'Serhii_Trotsenko_CVV.pdf',
+    image: { type: 'png', quality: 1 }
+  }
+  html2pdf(document.body, options);
 }
 
 function init() {
