@@ -90,8 +90,7 @@ content:
         quote: >
           The SportCaller platform is an enterprise software solution, used by some of the largest betting and media companies as a key customer acquisition and retention tool.
         description: | # this will include new lines to allow paragraphs
-          We creating free-to-play games, customized for each client needs. The development team consists of more than 30 people, including 13 front-end developers. My responsibilities include regular code reviews, development of new client applications, helping newly arrived developers.
-          With my participation in the project, we developed a new frontend architecture - an isomorphic SSR application using Nuxt 2/Vue 2, with fully dynamic content and routing that can be edited by administrators.
+          We creating free-to-play games, customized for each client needs. The development team consists of more than 30 people, including 13 front-end developers. My responsibilities include regular code reviews, development of new client applications, helping newly arrived developers. With my participation in the project, we developed a new frontend architecture - an isomorphic SSR application using Nuxt 2/Vue 2, with fully dynamic content and routing that can be edited by administrators.
 
       - layout: left
         title: Swagbucks
