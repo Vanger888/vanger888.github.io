@@ -3,6 +3,9 @@ function downloadPdf() {
     filename: 'Serhii_Trotsenko_CVV.pdf',
     margin: 1,
   }
+
+  const pdfBody = document.body.node.cloneNode(true);
+  const noPdfElements = pdfBody.
   html2pdf(document.body, options);
 }
 
