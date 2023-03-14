@@ -13,8 +13,8 @@ function setExperience() {
   let minutes = Math.floor(seconds / 60);
   let hours = Math.floor(minutes / 60);
   let days = Math.floor(hours / 24);
-  let months = Math.floor(days / 30);
-  let years = Math.floor(days / 365);
+  let months = Math.floor(days / 30.5);
+  let years = Math.floor(days / 365.25);
 
   seconds %= 60;
   minutes %= 60;
